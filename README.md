@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vojtěch Žmolík</h1>
 <h3 align="center">A student at Střední průmyslová škola in Mladá Boleslav</h3>
 
-- 👨‍💻 Avid Gamer and Programer
+- 👨‍💻 Avid Gamer and Programmer
 
 - 🔭 I’m currently working on **Finals**
 
