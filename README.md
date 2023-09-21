@@ -2,11 +2,11 @@
 <h4>Me after 10 minutes of woking in JavaFX</h4>
 
 <h1 align="center">Hi 👋, I'm Vojtěch Žmolík</h1>
-<h3 align="center">A student at Střední průmyslová škola in Mladá Boleslav</h3>
+<h3 align="center">A student at Technical University of Liberec</h3>
 
 - 👨‍💻 Avid Gamer and Programmer
 
-- 🔭 I’m currently working on **Finals**
+- 🔭 I’m currently working on **School Stuff**
 
 - 🌱 I’m currently learning **Java, JavaFX, C++, React Native**
 
