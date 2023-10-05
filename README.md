@@ -1,5 +1,5 @@
 ![Burn Meme](https://64.media.tumblr.com/50b5e4ebbb0b31bd0e17471dec0e59e0/tumblr_p1exx2xbFL1wamvm1o1_500.gif)
-<h4>Me after 10 minutes of woking in JavaFX</h4>
+<h4>Me after 10 minutes of woking in InteliJ Scen Builder</h4>
 
 <h1 align="center">Hi 👋, I'm Vojtěch Žmolík</h1>
 <h3 align="center">A student at Technical University of Liberec</h3>
