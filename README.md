@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **School Stuff**
 
-- 🌱 I’m currently learning **Java, JavaFX, C++, React Native**
+- 🌱 I’m currently learning **Java, Godot Script**
 
 - ⚡ Fun fact **I am the laziest person on the planet**
 
